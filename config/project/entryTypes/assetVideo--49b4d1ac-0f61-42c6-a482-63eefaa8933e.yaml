@@ -11,10 +11,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 06f9df10-79bb-42fe-adea-b76fd8bf6b8b # Asset Video
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField

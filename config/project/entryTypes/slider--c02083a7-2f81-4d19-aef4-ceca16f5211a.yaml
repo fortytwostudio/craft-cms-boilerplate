@@ -11,10 +11,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 1631bb08-7ce0-4101-8c3b-a29620d9f8c5 # Slider Matrix
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -34,10 +32,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: e5b76ff1-163b-49c0-bd4d-718bc1b5db55 # Text Colour
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -51,10 +47,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 4a75a36d-742c-4bd9-ad78-303d9f1f4b51 # Background Colour
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -74,10 +68,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 1131725d-b336-42f4-9d4c-a9ad5ae609f5 # Anchor
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField

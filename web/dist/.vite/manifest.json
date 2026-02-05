@@ -1,6 +1,6 @@
 {
   "src/js/app.js": {
-    "file": "assets/app-D_JEImiw.js",
+    "file": "assets/app-B007Jny1.js",
     "name": "app",
     "src": "src/js/app.js",
     "isEntry": true,
@@ -11,7 +11,7 @@
       "src/js/components/ticker.js"
     ],
     "css": [
-      "assets/app-DphtdRdB.css"
+      "assets/app-DcfMbd2C.css"
     ]
   },
   "src/js/components/nav.js": {

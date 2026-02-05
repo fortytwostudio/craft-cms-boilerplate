@@ -7,7 +7,7 @@ searchable: false
 settings:
   entryTypes:
     -
-      uid: 80190ffa-9de6-4824-befb-1c21b98c9752
+      uid: 80190ffa-9de6-4824-befb-1c21b98c9752 # Item
   maxEntries: null
   minEntries: null
   propagationKeyFormat: null

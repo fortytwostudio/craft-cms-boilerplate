@@ -1,4 +1,4 @@
-dateModified: 1766150625
+dateModified: 1770309646
 elementSources:
   craft\elements\Entry:
     -
@@ -84,6 +84,7 @@ meta:
     1631bb08-7ce0-4101-8c3b-a29620d9f8c5: 'Slider Matrix' # Slider Matrix
     03808ef1-4837-4bf6-bd64-fe67f8fb5272: Accordion # Accordion
     23255a47-8fcd-4ad9-8129-8bd0e89121e5: 'Footer Navigation' # Footer Navigation
+    80190ffa-9de6-4824-befb-1c21b98c9752: Item # Item
     88366ff2-676d-4832-b7dd-720a6c4b30fa: Image # Image
     1131725d-b336-42f4-9d4c-a9ad5ae609f5: Anchor # Anchor
     39237593-ff51-4bd3-851a-a9dfac329c0b: 'Page Summary' # Page Summary
@@ -135,7 +136,7 @@ plugins:
     edition: lite
     enabled: true
     licenseKey: 45LJE1C1SPXLFJO87KF1XUKW
-    schemaVersion: 5.14.0
+    schemaVersion: 5.14.2
     settings:
       ajaxByDefault: true
       alertNotificationRecipients: null
@@ -287,7 +288,7 @@ system:
   live: true
   name: $SITE_NAME
   retryDuration: null
-  schemaVersion: 5.8.0.3
+  schemaVersion: 5.9.0.8
   timeZone: Europe/London
 users:
   allowPublicRegistration: false
