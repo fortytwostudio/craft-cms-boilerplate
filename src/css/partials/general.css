@@ -98,6 +98,7 @@ p {
 .form form input[type=checkbox] {
     width: 14px !important;
     height: 14px;
+    display: inline-block !important;
 }
 
 .form form input::placeholder,  .form form textarea::placeholder{

@@ -11,10 +11,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 0ffba24e-268b-4f2c-a3f2-ad976b64c979 # Image
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -34,10 +32,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 4a75a36d-742c-4bd9-ad78-303d9f1f4b51 # Background Colour
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -57,10 +53,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 1131725d-b336-42f4-9d4c-a9ad5ae609f5 # Anchor
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
